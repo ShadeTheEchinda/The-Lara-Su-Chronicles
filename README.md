@@ -12,6 +12,7 @@ or movable animatronics, allowing the player to create a fully custom stage or l
 # Credits
 - The 64th Gamer (Codebase)
 - Himitsu (Improved simulation effeciency)
+- The Chuck E. Network (Modded)
 
 The RR Engine and its creator should be credited in any derivative works.
 
