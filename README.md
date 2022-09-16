@@ -1,4 +1,4 @@
-![Reel to Reel Icon Stroke - Copy](https://user-images.githubusercontent.com/69170079/180670348-4175cc09-545a-4611-802f-b2d50ef1c0e3.png)
+(https://user-images.githubusercontent.com/69170079/180670348-4175cc09-545a-4611-802f-b2d50ef1c0e3.png)
 
 # Description
 The RR Engine is a Unity codebase for simulating and animating old animatronics, with various features to customize the viewing experience.
